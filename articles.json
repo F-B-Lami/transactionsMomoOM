@@ -1,0 +1,38 @@
+[  
+    {  
+         "name":"Pure Mathematics And Mechanics", 
+         "cost":"4000"
+    },  
+    {  
+        "name":"Further Mathematics", 
+        "cost":"3000"
+   }, 
+    {  
+         "name":"Physics", 
+         "cost":"7500"
+    }, 
+     {  
+         "name":"Chemistry", 
+         "cost":"12700"
+    },
+    {  
+         "name":"Biology", 
+         "cost":"15800"
+    }, 
+    {  
+         "name":"Computer Science", 
+         "cost":"8000"
+    }, 
+    {  
+         "name":"ICT", 
+         "cost":"13200"
+    },
+    {  
+         "name":"Geology", 
+         "cost":"17000"
+    }, 
+    {  
+         "name":"Philosophy", 
+         "cost":"16800"
+    }
+]  
